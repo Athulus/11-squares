@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "a6ab9302-70fa-44b6-acec-fc91fd845169",
+    "appType": "clockface",
+    "appDisplayName": "11-squares",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "11-squares"
+      }
+    }
+  }
+}

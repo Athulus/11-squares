@@ -1,0 +1,26 @@
+<svg class="background" pointer-events="visible">
+  <defs>
+    <symbol id="square">
+      <rect class="r"/>
+    </symbol>
+  </defs>
+  
+  <use href="#square" x="10%" y="5%" id="1"/>
+  <use href="#square" x="35%" y="5%" id="2"/>
+  <use href="#square" x="60%" y="5%" id="3"/>
+  
+  <use href="#square" x="10%" y="30%" id="4"/>
+  <use href="#square" x="35%" y="30%" id="5"/>
+  <use href="#square" x="60%" y="30%" id="6"/>
+  
+  <use href="#square" x="10%" y="55%" id="7"/>
+  <use href="#square" x="35%" y="55%" id="8"/>
+  <use href="#square" x="60%" y="55%" id="9"/>
+  
+  <use href="#square" x="10%" y="80%" id="10"/>
+  <use href="#square" x="35%" y="80%" id="11"/>
+  <use href="#square" x="60%" y="80%" id="12"/>
+  
+  <text id="myLabel" />
+  
+</svg>
