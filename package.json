@@ -5,7 +5,10 @@
     "appDisplayName": "11-squares",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
-    "requestedPermissions": [],
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
     "buildTargets": [
       "higgs",
       "meson"
