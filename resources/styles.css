@@ -1,18 +1,24 @@
 .background {
-  viewport-fill: black;
+/*   viewport-fill: white; */
+  width: 300;
+  height: 300;
 }
 
 #myLabel {
   font-size: 40;
   font-family: Seville-Bold;
   text-length: 32;
-  text-anchor: middle;
+  text-anchor: center;
   fill: white;
+  text-length: 7;
+  rows: 2;
+  width: 60%;
+  height: 60%;
 }
 
 .r {
   width: 20%;
   height: 20%;
-  fill: blue; 
+/*   fill: blue;  */
 }
 

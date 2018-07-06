@@ -1,9 +1,10 @@
-<svg class="background" pointer-events="visible">
+<svg>
   <defs>
     <symbol id="square">
       <rect class="r"/>
     </symbol>
   </defs>
+  <rect class="background"/>
   
   <use href="#square" x="10%" y="5%" id="1"/>
   <use href="#square" x="35%" y="5%" id="2"/>
@@ -21,8 +22,6 @@
   <use href="#square" x="35%" y="80%" id="11"/>
   <use href="#square" x="60%" y="80%" id="12"/>
   
-  <text id="myLabel" pointer-events="visible" />
-  <rect id="clickbg" pointer-events="visible"/>
-
+  <textarea id="myLabel" pointer-events="visible" display-align="center" />
   
 </svg>
